@@ -1,3 +1,4 @@
+
 // import logo from './logo.svg';
 import './App.css';
 import React from "react";
@@ -9,8 +10,8 @@ import {
 
 import About from './Components/About';
 import Alert from './Components/Alert';
-import Home from './Components/Home';
 import Navbar from './Components/Navbar';
+import Home from './Components/Home';
 
 function App() {
   return (
